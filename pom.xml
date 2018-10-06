@@ -26,7 +26,11 @@
 
   </dependencies>
   
+<<<<<<< HEAD
   <build>
+=======
+    <build>
+>>>>>>> fcbb4ae0c784f80f60305222c4811140e4295eef
 <plugins>
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
@@ -52,4 +56,8 @@ maven-compiler-plugin
 </plugins>
 </build>
   
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> fcbb4ae0c784f80f60305222c4811140e4295eef
